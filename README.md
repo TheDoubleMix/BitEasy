@@ -1,2 +1,2 @@
 # BitEasy
-A Python Module to help in writing and reading bits in binary files.
+A Python Module to help in reading bits in binary files. (BETA VERSION)
